@@ -3,7 +3,7 @@
 # 👋 Hi, there!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
-## 🚀 Welcome to **Mak Tech Solution (MTS)!** 
+## 🚀 Welcome to **MAK-Tech Solution (MTS)!** 
  
 We're excited to have you here. 🎉
 
@@ -15,15 +15,15 @@ Your trusted companion for digital leadership by empowering people to achieve mo
 
 ### We will help a client’s problems to develop the products they have with high quality changes the appearance.
 
-Welcome to **Mak Tech Solution (MTS)**, where innovation meets excellence. With **10 years** of experience in the IT industry, we have been at the forefront of delivering comprehensive technology solutions that empower businesses to thrive in the digital age. Our journey is built on a foundation of trust, expertise, and a relentless drive to provide cutting-edge services tailored to our clients’ unique needs.
+Welcome to **MAK-Tech Solution (MTS)**, where innovation meets excellence. With **10 years** of experience in the IT industry, we have been at the forefront of delivering comprehensive technology solutions that empower businesses to thrive in the digital age. Our journey is built on a foundation of trust, expertise, and a relentless drive to provide cutting-edge services tailored to our clients’ unique needs.
 
-At **Mak Tech Solution (MTS)**, we specialize in a wide range of IT services, including software development, cloud solutions, IT consulting, cybersecurity, and enterprise solutions. Our team of skilled professionals combines technical knowledge with creative problem-solving to design and implement systems that enhance efficiency, drive growth, and foster innovation.
+At **MAK-Tech Solution (MTS)**, we specialize in a wide range of IT services, including software development, cloud solutions, IT consulting, cybersecurity, and enterprise solutions. Our team of skilled professionals combines technical knowledge with creative problem-solving to design and implement systems that enhance efficiency, drive growth, and foster innovation.
 
-At **Mak Tech Solution (MTS)**, our mission is simple: to harness the power of technology to help businesses succeed. Join us in shaping a smarter, more connected future. Together, we can achieve greatness.
+At **MAK-Tech Solution (MTS)**, our mission is simple: to harness the power of technology to help businesses succeed. Join us in shaping a smarter, more connected future. Together, we can achieve greatness.
 
 ## Why Choose Us 😊
 
-At **Mak Tech Solution (MTS)**, we offer a wide range of digital services designed to help your business thrive online. From custom web development and mobile app development to **UI/UX design**, **WordPress** and **Shopify development**, we provide tailored solutions that meet your unique needs. Our team combines creativity with technical expertise to deliver high-performance websites, apps, and eCommerce platforms that engage users and drive results.
+At **MAK-Tech Solution (MTS)**, we offer a wide range of digital services designed to help your business thrive online. From custom web development and mobile app development to **UI/UX design**, **WordPress** and **Shopify development**, we provide tailored solutions that meet your unique needs. Our team combines creativity with technical expertise to deliver high-performance websites, apps, and eCommerce platforms that engage users and drive results.
 
 - 💻 Web Development
 - 🎨 UI/UX Design
@@ -33,7 +33,7 @@ At **Mak Tech Solution (MTS)**, we offer a wide range of digital services design
 
 ## Our work process 🚀
 
-At **Mak Tech Solution (MTS)**, we pride ourselves on delivering high-quality IT solutions tailored to meet the unique needs of each client. Our work process is designed to ensure that every project is executed with precision, efficiency, and the highest standard of service. Here’s how we do it
+At **MAK-Tech Solution (MTS)**, we pride ourselves on delivering high-quality IT solutions tailored to meet the unique needs of each client. Our work process is designed to ensure that every project is executed with precision, efficiency, and the highest standard of service. Here’s how we do it
 
 - 📝 [Documentation](#) - Research & Analysis.
 - 🛠️ [Contribution Guidelines](#) - Designing & Prototyping
